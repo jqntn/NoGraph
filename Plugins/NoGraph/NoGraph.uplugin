@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "NoGraph",
+	"Description": "Blocks graphs in blueprints",
+	"Category": "Editor",
+	"CreatedBy": "jqntn",
+	"CreatedByURL": "https://github.com/jqntn",
+	"DocsURL": "https://www.unrealengine.com/marketplace/product/38dac6b1e1a74a1389fe0ac9cb1bf788",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/38dac6b1e1a74a1389fe0ac9cb1bf788",
+	"SupportURL": "https://www.unrealengine.com/marketplace/product/38dac6b1e1a74a1389fe0ac9cb1bf788/questions",
+	"EngineVersion": "5.2.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "NoGraph",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
+		}
+	],
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false
+}
